@@ -32,12 +32,7 @@ if (isset($_POST["id"]) && !empty($_POST["id"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Delete record</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <style>
-        .wrapper {
-            width: 600px;
-            margin: 0 auto;
-        }
-    </style>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>

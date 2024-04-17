@@ -11,21 +11,12 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     </script>
-    <style>
-        .wrapper {
-            width: 600px;
-            margin: 0 auto;
-        }
-
-        table tr td:last-child {
-            width: 120px;
-        }
-    </style>
     <script>
         $(document).ready(function () {
             $('[data-toggle="tooltip"]').tooltip();
         });
     </script>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
